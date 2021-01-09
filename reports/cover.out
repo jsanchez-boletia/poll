@@ -1,0 +1,10 @@
+mode: set
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:14.97,25.22 4 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:37.2,37.70 1 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:41.2,47.16 3 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:51.2,51.22 1 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:25.22,29.39 3 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:29.39,34.4 4 1
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:37.70,39.3 1 0
+github.com/jsanchez-boletia/poll/client/dynamo/create.go:47.16,49.3 1 0
+github.com/jsanchez-boletia/poll/client/dynamo/dynamo.go:13.71,18.2 1 0
